@@ -1,0 +1,7 @@
+/home/marcelo/dev/testes/spring-batch/spring-batch-scheduler/src/main/java/com/codenotfound/SpringBatchApplication.java
+/home/marcelo/dev/testes/spring-batch/spring-batch-scheduler/src/main/java/com/codenotfound/batch/CapitalizeNamesJobScheduler.java
+/home/marcelo/dev/testes/spring-batch/spring-batch-scheduler/src/main/java/com/codenotfound/batch/CapitalizeNamesJobConfig.java
+/home/marcelo/dev/testes/spring-batch/spring-batch-scheduler/src/main/java/com/codenotfound/batch/PersonItemProcessor.java
+/home/marcelo/dev/testes/spring-batch/spring-batch-scheduler/src/main/java/com/codenotfound/batch/CapitalizeNamesJobController.java
+/home/marcelo/dev/testes/spring-batch/spring-batch-scheduler/src/main/java/com/codenotfound/batch/BatchConfig.java
+/home/marcelo/dev/testes/spring-batch/spring-batch-scheduler/src/main/java/com/codenotfound/model/Person.java
